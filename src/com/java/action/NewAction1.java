@@ -35,7 +35,7 @@ public class NewAction1 {
 	}
 	public String execute()
 	{
-		return "success";
+		return "success1";
 	}
 	
 }
